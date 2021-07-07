@@ -1,0 +1,12 @@
+.invalid input {
+  border-color: red;
+  background: #ffd7d7;
+}
+
+.invalid label {
+  color: red;
+}
+
+.invalid p {
+  color: red;
+}
